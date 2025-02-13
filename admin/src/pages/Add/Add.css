@@ -34,3 +34,6 @@
     color: white;
     cursor: pointer;
 }
+label img[src*="assets/upload_area"] {
+    filter: var(--upload);
+}
