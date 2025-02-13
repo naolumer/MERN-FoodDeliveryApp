@@ -37,6 +37,15 @@
     border-radius: 50px;
     font-weight: 500;
 }
+
+:root .buttonwl {
+    color: black;
+}
+
+.lightcolors .buttonwl {
+    color: #747474;
+}
+
 @keyframes fadeIn {
     0% {
         opacity: 0;

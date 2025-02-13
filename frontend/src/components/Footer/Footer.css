@@ -41,6 +41,24 @@
     background: gray;
     border: none;
 }
+
+:root .footer {
+    background-color: #252323;
+}
+
+.lightcolors .footer {
+    background-color: #323232;
+}
+
+:root .tomatologofooter {
+    filter: var(--logos-filter); 
+}
+
+.lightcolors .tomatologofooter {
+    filter: none; 
+}
+
+
 @media (max-width:750px) {
     .footer-content{
         display: flex;

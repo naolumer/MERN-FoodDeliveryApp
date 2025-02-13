@@ -21,3 +21,10 @@
 .app-download-platforms img:hover {
     transform: scale(1.1);
 }
+:root .pforbetter {
+    color: white;
+}
+
+.lightcolors .pforbetter {
+    color: black; 
+}

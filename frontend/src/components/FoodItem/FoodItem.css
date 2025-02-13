@@ -64,3 +64,41 @@
 .food-item-counter img {
     width: 30px;
 }
+
+:root .cartitemsp,
+:root .food-item-price,
+:root .food-item-desc,
+:root .ratingstars,
+:root .namewe {
+    color: white;
+}
+
+
+.lightcolors .food-item-desc{
+    color: grey;
+}
+
+.lightcolors .cartitemsp,
+.lightcolors .food-item-info,
+.lightcolors .food-item-price,
+.lightcolors .ratingstars,
+.lightcolors .namewe {
+    color: black; 
+}
+
+:root .food-item-counter,
+:root .food-item-info{
+    background-color: rgb(36, 32, 32);
+}
+.lightcolors .food-item-counter,
+.lightcolors .food-item-info{
+    background-color: #FFFFFF;
+}
+
+:root .food-item-img-container .add{
+    background-color: black
+}
+
+.lightcolors .food-item-img-container .add{
+    background-color: white;
+}

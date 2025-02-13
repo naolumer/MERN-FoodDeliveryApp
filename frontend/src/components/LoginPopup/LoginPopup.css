@@ -64,3 +64,20 @@
     font-weight: 500;
     cursor: pointer;
 }
+
+:root .login-popup-title{
+    color: white;
+}
+
+.lightcolors .login-popup-title{
+    color: black;
+}
+
+
+:root .login-popup-container {
+    background-color: var(--body-color);
+}
+
+.lightcolors .login-popup-container {
+    background-color: white; 
+}

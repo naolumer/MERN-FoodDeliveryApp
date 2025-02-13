@@ -48,6 +48,18 @@
     padding: 2px;
 
 }
+
+:root .explore-menu-text,
+:root .item_menu,
+:root .h1e {
+    color: white; 
+}
+
+.lightcolors .explore-menu-text,
+.lightcolors .item_menu,
+.lightcolors .h1e {
+    color: black;
+}
 @media (max-width:1050px) {
     .explore-menu-text{
         max-width: 100%;
